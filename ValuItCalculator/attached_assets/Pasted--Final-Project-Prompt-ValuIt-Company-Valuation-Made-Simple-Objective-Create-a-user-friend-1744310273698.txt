@@ -1,0 +1,95 @@
+💡 Final Project Prompt: ValuIt – Company Valuation Made Simple
+🎯 Objective:
+Create a user-friendly valuation platform where anyone—student or pro—can perform company valuations using proven financial techniques like DCF, Comps, Precedent Transactions, and more. The site will be smart, flexible, and easy to understand, with auto-filled data, freemium model, and professional mode for deeper analysis.
+🧩 Core Valuation Methods:
+Discounted Cash Flow (DCF)
+Comparable Company Analysis (EV/EBITDA, P/E, EV/Revenue)
+Precedent Transactions
+Asset-Based Valuation
+LBO (Pro Mode Only)
+Each method will be clearly explained with examples and visual output.
+📝 User Input with Smart Defaults:
+Company name or ticker
+Industry (optional if auto-detected)
+Growth projections (1–5 years)
+Perpetual growth rate
+Discount rate / WACC
+Revenue, EBITDA, Net Income (manual or auto)
+Debt and Cash
+Exit multiples
+Validation request toggle (option to review by professionals)
+📌 If users leave inputs blank, the platform fetches delayed industry averages or uses default valuation rules.
+🧭 Website Sections:
+1. Home
+Tagline: “Valuation, simplified.”
+Clear CTA: "Start Now"
+Preview of how it works
+2. Valuation Tool
+Basic mode: enter a company and see output fast
+Pro mode: unlock detailed inputs, validate data
+Clean visualizations with charts, tables, sensitivity tables
+Export: PDF, Excel
+3. My Valuations (Personal Dashboard) ✅
+Save valuations for later
+Compare versions over time
+Upload assumptions
+Download / Share reports
+“Your Valuation Vault”
+4. Professional Mode ✅
+Advanced settings: custom WACC, terminal assumptions
+Scenario/sensitivity toggles
+Peer-review / validation system
+Full projection table inputs
+5. Learn ✅
+Simple guides & use cases
+“What is a good WACC?”
+Gamified quizzes
+Mini-courses with certificates ✅
+6. Testimonials
+Student stories, startup feedback, founder quotes
+“I valued my startup before my pitch”
+7. Basic Company Info + ESG Metrics ✅
+Show industry, sector, HQ, employees, ESG score, latest news
+Include business model summary and value drivers
+Automatically fetch data from sources (Morningstar, etc.)
+8. FAQ
+Covers technical and beginner questions
+Link to guides or learn section for each answer
+9. About
+Why ValuIt was created
+Team mission and future roadmap
+🔧 Features Overview:
+Feature
+Included?
+Account creation
+✅
+Save & Compare Valuations
+✅
+Share functionality
+✅
+Excel Upload/Download
+✅
+Freemium Model
+✅
+Delayed Data Use
+✅
+Real-time explanation bot
+✅
+Professional input validation
+✅ (Optional)
+Gamified learning
+✅
+Certificate for learning
+✅
+ESG & Company Info Section
+✅
+LBO Model (Advanced)
+✅
+Timeline-based comparison
+✅
+Private valuation workspace
+✅
+API Access (Internal Only)
+✅
+🧠 Still Open (Optional Ideas):
+💬 Community Forum – Still undecided, but could be added later if needed.
